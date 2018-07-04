@@ -43,7 +43,7 @@ class ApiMethods {
 }
 
 
-const bookmarksAPI = new ApiMethods('http://localhost:3000/bookmarks')
+const bookmarksAPI = new ApiMethods('https://express-mongo-passport-qosevaoepq.now.sh')
 // const authenticationAPI = new ApiMethods('http://localhost:3000/')
 
 export  { bookmarksAPI }
