@@ -3,7 +3,8 @@ import axios from 'axios'
 
 // Create an axios instance
 const api = axios.create({
-    baseURL: 'https://vigilant-swartz-2e154e.netlify.com' // API server
+    baseURL: '
+express-mongo-passport-qosevaoepq.now.sh' // API server
 })
 
 // Add the bearer token to the axios instance
